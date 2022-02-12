@@ -26,3 +26,15 @@ hr{
     margin-bottom: 5%;
     width: 100%;
 }
+@media screen and (max-width: 750px) {
+    .carusol{
+        width: 100%;
+    }
+    .carusol .InfiniteCarouselArrowNext {
+       right: 1px;
+        color: white;
+    }
+    .products-container{
+        margin-bottom: 10%;
+    }
+}

@@ -18,15 +18,15 @@ const Products = (props) => {
       {
         breakpoint: 500,
         settings: {
-          slidesToShow: 0,
-          slidesToScroll: 0,
+          slidesToShow: 1,
+          slidesToScroll: 1,
         },
       },
       {
         breakpoint: 768,
         settings: {
-          slidesToShow: 0,
-          slidesToScroll: 0,
+          slidesToShow: 2,
+          slidesToScroll: 2,
         },
       },
     ]}
