@@ -1,0 +1,28 @@
+.carusol{
+    background:red;
+    width: 80%;
+    padding: 15px;
+    background: #131313;
+    border-radius: 15px;
+}
+.products-container h2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin-bottom: 1%;
+    color: #FFFFFF;
+}
+
+hr{
+    border: 1px solid rgba(203, 203, 203, 0.5);
+    margin-bottom: 1%;
+}
+.carusol .InfiniteCarouselArrowNext {
+    right: -35px;
+    color: white;
+}
+.products-container{
+    margin-bottom: 5%;
+    width: 100%;
+}
